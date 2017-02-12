@@ -7,7 +7,10 @@
 	},
 	"dependencies": {
 		"express": "4.13.x",
-		"cfenv": "1.0.x"
+		"cfenv": "1.0.x",
+		"node-telegram-bot-api": "0.24.0",
+		"watson-developer-cloud": "^2.8.1"
+
 	},
 	"repository": {},
 	"engines": {
